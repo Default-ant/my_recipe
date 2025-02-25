@@ -4,14 +4,21 @@
     font-weight: 900;
     font-size:xx-large ;
     text-align: center;
+    margin: 10px 5px;
+    padding: 8px 16px;
 }
 
 .url{
     color:yellow;
     background-color:burlywood;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 800;
-    border: 0cap;
+    border: 2px;
+    padding: 12px auto;
 }
 
-
+.content{
+    margin: 16px auto;
+    padding: 8px 16px;
+    
+}
